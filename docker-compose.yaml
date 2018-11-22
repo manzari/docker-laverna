@@ -1,0 +1,8 @@
+version: "3"
+services:
+ laverna:
+    image: manzari/laverna
+    container_name: laverna
+    volumes:
+      - ./laverna/logs:/var/log/nginx
+    restart: always
