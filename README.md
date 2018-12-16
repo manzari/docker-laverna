@@ -1,5 +1,7 @@
 # laverna for docker
-![Docker Build Status](https://img.shields.io/docker/build/manzari/laverna.svg) ![Size](https://img.shields.io/microbadger/image-size/manzari/laverna.svg) ![Layers](https://img.shields.io/microbadger/layers/manzari/laverna.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/manzari/laverna.svg)
+[![Docker Build Status](https://img.shields.io/docker/build/manzari/laverna.svg)](https://hub.docker.com/r/manzari/laverna/builds)  [![Size](https://img.shields.io/microbadger/image-size/manzari/laverna.svg)](https://hub.docker.com/r/manzari/laverna) 
+[![Layers](https://img.shields.io/microbadger/layers/manzari/laverna.svg)](https://hub.docker.com/r/manzari/laverna) 
+[![Docker Pulls](https://img.shields.io/docker/pulls/manzari/laverna.svg)](https://hub.docker.com/r/manzari/laverna)
 
 - based on [_/nginx](https://hub.docker.com/_/nginx/)
 
